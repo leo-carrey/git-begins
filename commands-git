@@ -2,4 +2,4 @@ git clone
 git add "nom_du_fichier"
 git commit -m "Commentaire" "NOm_du_fichier"
 git push -u origin main
-
+git pull
